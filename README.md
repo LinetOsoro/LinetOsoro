@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data analytics
-- 📫 How to reach me ...
+- 📫 How to reach me @ github.com/LinetOsoro
 
 <!---
 LinetOsoro/LinetOsoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
