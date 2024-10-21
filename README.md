@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @LinetOsoro
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on data analytics
-- 📫 How to reach me @ github.com/LinetOsoro, linetosoro27@gmail.com
-- 
+### 👋 Hello, I'm Linet!
 
-<!---
-LinetOsoro/LinetOsoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Data Analyst specializing in SQL, Machine Learning, Tableau, and BI Reporting. With a strong background in Business Administration, Management, and hands-on leadership experience as an Assistant District Supervisor, I excel at transforming data into actionable insights to drive both strategic and operational decisions.
+
+### 🛠 Skills & Tools:
+
+- **Data Analysis & Management**: SQL, Python, Pandas, Excel, VBA
+- **Machine Learning**: Regression, Classification, Clustering, Scikit-learn
+- **Data Visualization & BI**: Tableau, Power BI, Statistical Modeling
+- **Business Intelligence Reporting**: Creating detailed reports and dashboards to support decision-making
+- **Database Management**: SQL, NoSQL
+- **Leadership & Operations**: Process improvement, strategic planning, staff mentoring, operational efficiency
+- **Other Tools**: Jupyter Notebooks, GitHub
+
+### 🚀 Featured Projects:
+add here 
+
+### 🎓 Education:
+- MBA in Management and Accounting (GPA: 3.8) - Lincoln University
+- Bachelor of Science in Business Administration (Cum Laude) - Lincoln University
+- Data Analysis Bootcamp - Washington University in St. Louis
+
+### 🌱 Interests:
+I am focused on using SQL, machine learning, Tableau, and BI reporting to develop advanced data-driven solutions and optimize business processes. With my experience as an Assistant District Supervisor, I am passionate about leading teams and improving operational efficiencies through data insights.
