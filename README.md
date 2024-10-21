@@ -22,3 +22,6 @@ add here
 
 ### 🌱 Interests:
 I am focused on using SQL, machine learning, Tableau, and BI reporting to develop advanced data-driven solutions and optimize business processes. With my experience as an Assistant District Supervisor, I am passionate about leading teams and improving operational efficiencies through data insights.
+
+✉️ Feel free to reach out! I'd love to connect: [linetosoro27@gmail.com](mailto:linetosoro27@gmail.com)
+
