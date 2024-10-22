@@ -14,16 +14,16 @@ I’m a Data Analyst specializing in SQL, Machine Learning, Tableau, and BI Repo
 
 ### 🚀 Featured Projects:
 - **Machine Learning: Predicting Home Sales**
-Developed machine learning models to predict home sales prices using Zillow information. This project explores various machine learning techniques such as linear regression, decision trees, and ensemble methods to forecast house prices based on factors like location, number of bedrooms, and square footage.[Project Link](https://github.com/LinetOsoro/Home-Sales-Prediction)
+Developed machine learning models to predict home sales prices using Zillow information. This project explores various machine learning techniques such as linear regression, decision trees, and ensemble methods to forecast house prices based on factors like location, number of bedrooms, and square footage. [Project Link](https://github.com/LinetOsoro/Home-Sales-Prediction)
 
 - **SQL for Employment History Analysis**
-Analyzed employment history datasets using SQL to uncover key workforce trends. This project involves data manipulation, joining multiple datasets, and querying historical employment records to derive insights such as employee retention rates, promotions, and department growth over time.[Project Link](https://github.com/LinetOsoro/sql-challenge)
+Analyzed employment history datasets using SQL to uncover key workforce trends. This project involves data manipulation, joining multiple datasets, and querying historical employment records to derive insights such as employee retention rates, promotions, and department growth over time. [Project Link](https://github.com/LinetOsoro/sql-challenge)
 
 - **API and Data Analysis with Maps**:  
-Analyzed weather data using APIs to create a series of weather plots and mapped ideal vacation destinations based on specific weather conditions.[Project Link](https://github.com/LinetOsoro/python-api-challenge)
+Analyzed weather data using APIs to create a series of weather plots and mapped ideal vacation destinations based on specific weather conditions. [Project Link](https://github.com/LinetOsoro/python-api-challenge)
 
 - **Tableau Visualizations**:  
-Explore my interactive data visualizations and dashboards on Tableau Public.[Tableau Profile](https://public.tableau.com/app/profile/linet.osoro)
+Explore my interactive data visualizations and dashboards on Tableau Public. [Tableau Profile](https://public.tableau.com/app/profile/linet.osoro)
 
 
 ### 🎓 Education:
