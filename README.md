@@ -20,10 +20,10 @@ Developed machine learning models to predict home sales prices using Zillow info
 Analyzed employment history datasets using SQL to uncover key workforce trends. This project involves data manipulation, joining multiple datasets, and querying historical employment records to derive insights such as employee retention rates, promotions, and department growth over time.[Project Link](https://github.com/LinetOsoro/sql-challenge)
 
 - **API and Data Analysis with Maps**:  
-  Analyzed weather data using APIs to create a series of weather plots and mapped ideal vacation destinations based on specific weather conditions.[Project Link](https://github.com/LinetOsoro/python-api-challenge)
+Analyzed weather data using APIs to create a series of weather plots and mapped ideal vacation destinations based on specific weather conditions.[Project Link](https://github.com/LinetOsoro/python-api-challenge)
 
-  - **Tableau Visualizations**:  
-  Explore my interactive data visualizations and dashboards on Tableau Public.[Tableau Profile](https://public.tableau.com/app/profile/linet.osoro)
+- **Tableau Visualizations**:  
+Explore my interactive data visualizations and dashboards on Tableau Public.[Tableau Profile](https://public.tableau.com/app/profile/linet.osoro)
 
 
 ### 🎓 Education:
