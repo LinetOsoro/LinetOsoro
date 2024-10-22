@@ -22,6 +22,9 @@ Analyzed employment history datasets using SQL to uncover key workforce trends. 
 - **API and Data Analysis with Maps**:  
   Analyzed weather data using APIs to create a series of weather plots and mapped ideal vacation destinations based on specific weather conditions.[Project Link](https://github.com/LinetOsoro/python-api-challenge)
 
+  - **Tableau Visualizations**:  
+  Explore my interactive data visualizations and dashboards on Tableau Public.[Tableau Profile](https://public.tableau.com/app/profile/linet.osoro)
+
 
 ### 🎓 Education:
 - MBA in Management and Accounting (GPA: 3.8) - Lincoln University
