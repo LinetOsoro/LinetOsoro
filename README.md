@@ -13,7 +13,12 @@ I’m a Data Analyst specializing in SQL, Machine Learning, Tableau, and BI Repo
 - **Other Tools**: Jupyter Notebooks, GitHub
 
 ### 🚀 Featured Projects:
-add here 
+- **Machine Learning: Predicting Home Sales**
+Developed machine learning models to predict home sales prices using Zillow information. This project explores various machine learning techniques such as linear regression, decision trees, and ensemble methods to forecast house prices based on factors like location, number of bedrooms, and square footage.[Project Link](https://github.com/LinetOsoro/Home-Sales-Prediction)
+
+- **SQL for Employment History Analysis**
+Analyzed employment history datasets using SQL to uncover key workforce trends. This project involves data manipulation, joining multiple datasets, and querying historical employment records to derive insights such as employee retention rates, promotions, and department growth over time.[Project Link](https://github.com/LinetOsoro/sql-challenge)
+
 
 ### 🎓 Education:
 - MBA in Management and Accounting (GPA: 3.8) - Lincoln University
@@ -24,4 +29,8 @@ add here
 I am focused on using SQL, machine learning, Tableau, and BI reporting to develop advanced data-driven solutions and optimize business processes. With my experience as an Assistant District Supervisor, I am passionate about leading teams and improving operational efficiencies through data insights.
 
 ✉️ Feel free to reach out! I'd love to connect: [linetosoro27@gmail.com](mailto:linetosoro27@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linet-osoro-mba-ba2b5a20/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZClzjEtzQS%2BQU3E8KxhJkQ%3D%3D)
+
+
 
