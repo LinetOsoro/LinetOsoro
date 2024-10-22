@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Linet!
 
-I’m a Data Analyst specializing in SQL, Machine Learning, Tableau, and BI Reporting. With a strong background in Business Administration, Management, and hands-on leadership experience as an Assistant District Supervisor, I excel at transforming data into actionable insights to drive both strategic and operational decisions.
+I am an aspring Data Analyst specializing in SQL, Machine Learning, Tableau, and BI Reporting. With a strong background in Business Administration, Management, and hands-on leadership experience as an Assistant District Supervisor, I excel at transforming data into actionable insights to drive both strategic and operational decisions.
 
 ### 🛠 Skills & Tools:
 
@@ -10,7 +10,7 @@ I’m a Data Analyst specializing in SQL, Machine Learning, Tableau, and BI Repo
 - **Business Intelligence Reporting**: Creating detailed reports and dashboards to support decision-making
 - **Database Management**: SQL, NoSQL
 - **Leadership & Operations**: Process improvement, strategic planning, staff mentoring, operational efficiency
-- **Other Tools**: Jupyter Notebooks, GitHub
+- **Other Tools**: Jupyter Notebooks, GitHub, COLAB
 
 ### 🚀 Featured Projects:
 - **Machine Learning: Predicting Home Sales**
